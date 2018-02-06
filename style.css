@@ -13,9 +13,6 @@ body {
 }
 
 body.internal {
-/*	background-image: url(http://69.20.120.159/images/internalBG.png);
-	background-repeat: no-repeat;
-	background-position: top center; */
 	background-color: #FFF;
 	background-size: 100%;
 }
@@ -34,7 +31,7 @@ img {
 }
 
 #logoRow {
-	background-image: url(http://69.20.120.159/images/bluewhiteBG.png);
+	background-image: url('/images/bluewhiteBG.png');
 	background-repeat: repeat-x;
 	background-size: contain;
 	padding: 0px 20px;
@@ -57,7 +54,7 @@ img {
 }
 
 #headerRow {
-	background-image: url(uploads/mainBG-new.png);
+	background-image: url('uploads/mainBG-new.png');
 	background-repeat: repeat-x;
 	background-position: top center;
 	background-size: auto 100%;
@@ -73,7 +70,7 @@ img {
 	font-size: 20px;
 	cursor: pointer;
 	display: none;
-	background-image: url(http://69.20.120.159/images/navBGHover.png);
+	background-image: url('/images/navBGHover.png');
 	background-repeat: repeat-x;
 	border: 1px solid #777;
 }
@@ -113,7 +110,7 @@ img {
 }
 
 .nav li {
-	background-image: url(http://69.20.120.159/images/navBG.png);
+	background-image: url('/images/navBG.png');
 	background-repeat: repeat-x;
 }
 
@@ -142,7 +139,7 @@ img {
 }
 
 .nav li:hover {
-	background-image: url(http://69.20.120.159/images/navBGHover.png) !important;
+	background-image: url('/images/navBGHover.png') !important;
 	background-color: #000;
 	background-repeat: repeat-x;
 }
@@ -180,7 +177,7 @@ img {
 }
 
 .dropdown-menu li {
-	background-image: url(http://69.20.120.159/images/subnavBG.png);
+	background-image: url('/images/subnavBG.png');
 	background-repeat: repeat-x;
 }
 
@@ -453,7 +450,7 @@ margin-top:5px;
 }
 
 .topNews {
-	background-image: url(http://69.20.120.159/images/navBGHover.png);
+	background-image: url('/images/navBGHover.png');
 	backgorund-repeat: no-repeat;
 	padding: 24px 24px;
 	line-height: 12px;
@@ -533,7 +530,7 @@ li .newsItem .excerpt a {
 li .newsItem .excerpt span.moreArrow {
 	width: 5px;
 	height: 10px;
-	background-image: url(http://69.20.120.159/images/moreArrow.png);
+	background-image: url('/images/moreArrow.png');
 	background-repeat: no-repeat;
 	position: relative;
 	top: 2px;
@@ -554,7 +551,7 @@ li .newsItem .excerpt span.moreArrow {
 #footer .footerCenter .topFooter {
 	min-height: 105px;
 	padding: 10px;
-	background-image: url(http://69.20.120.159/images/bluewhiteBG.png);
+	background-image: url('/images/bluewhiteBG.png');
 	background-repeat: repeat-x;
 	background-size: contain;
 	position: relative;
@@ -592,7 +589,7 @@ li .newsItem .excerpt span.moreArrow {
 	display: inline-block;
 	width: 179px;
 	height: 37px;
-	background-image: url(http://69.20.120.159/images/social-bg.png);
+	background-image: url('/images/social-bg.png');
 	background-repeat: none;
 	padding: 0px;
 }
