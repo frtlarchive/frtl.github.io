@@ -7,4 +7,4 @@ title: Blog
 
 Florida Rock and Tank Lines is excited for its new equipment, let Pat Tornwall walkthrough both of our new trucks.
 
-<iframe allow="encrypted-media" allowfullscreen="" frameborder="0" gesture="media" src="https://www.youtube.com/embed/i6usalPyBu8"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/i6usalPyBu8?rel=0" width="560"></iframe>
