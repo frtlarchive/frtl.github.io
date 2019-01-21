@@ -20,7 +20,7 @@ The Florida Rock & Tank Lines achievement comes at a time when the cumulative ta
 
 The management team leading Florida Rock & Tank Lines includes John Mabbett, chairman; Robert E Sandlin, president and chief executive officer; and Jim Anderson, vice president of safety.
 
-Sandlin praised the safety efforts of everyone at Florida Rock & Tank Lines, saying: &ldquo;I am proud to be associated with such a wonderful group of professional people who understand the focus needed to successfully improve safety performance, and I am excited to be able to accept the Trophy on their behalf. We strive to operate safely first and then provide the best customer service in the industry. Our employees focus on prevention of accidents and property damage, prevention of product contamination and spills, and prevention of personal injury."
+Sandlin praised the safety efforts of everyone at Florida Rock & Tank Lines, saying: "I am proud to be associated with such a wonderful group of professional people who understand the focus needed to successfully improve safety performance, and I am excited to be able to accept the Trophy on their behalf. We strive to operate safely first and then provide the best customer service in the industry. Our employees focus on prevention of accidents and property damage, prevention of product contamination and spills, and prevention of personal injury."
 
 The Outstanding Performance Trophy is awarded annually by Heil Trailer International of Athens, Tennessee, and is presented to the carrier judged to have had the best safety program in the tank truck industry during the previous year.
 
@@ -28,7 +28,7 @@ Contest judges this year were: Joe Evans, Evans Transportation Safety Consulting
 
 NTTC conducts four annual safety contests. These include a Competitive Safety Contest in which carriers compete in separate mileage classes; the Safety Improvement Contest in which a carrier competes against its own record for the previous year; a Personnel Safety Contest that is based on injuries per hours worked; and the Outstanding Performance Contest.
 
-For 2011, the cumulative DOT accident frequency for participants in the NTTC&rsquo;s Annual Safety Contest was 0.498. This represents a decrease in the average  frequency of 0.513 accidents per million miles traveled in 2010. It is important to note that these figures are for the NTTC member companies that participated in the safety contest, not for the tank truck industry overall.
+For 2011, the cumulative DOT accident frequency for participants in the NTTC's Annual Safety Contest was 0.498. This represents a decrease in the average frequency of 0.513 accidents per million miles traveled in 2010. It is important to note that these figures are for the NTTC member companies that participated in the safety contest, not for the tank truck industry overall.
 
 For the 2011 contest year, NTTC had 92 entrants traveling 2.12 billion miles. In 2010, 104 contest entrants recorded 2.24 billion miles.
 
