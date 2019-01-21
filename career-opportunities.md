@@ -19,10 +19,9 @@ Thank you for your interest in the exciting career opportunities available at Fl
 
 [Apply Now!]
 
-|-|
-|<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/3m37OYtHvNc?rel=0" width="560"></iframe>|
-|<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/doh-oSvZOzc" width="560"></iframe>|
-|<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/KTOLhkycJP0?rel=0" width="560"></iframe>|
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/3m37OYtHvNc?rel=0" width="560"></iframe><br /><br />
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/doh-oSvZOzc" width="560"></iframe><br /><br />
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/KTOLhkycJP0?rel=0" width="560"></iframe><br /><br />
 
 ## MECHANIC AND SHOP OPPORTUNITIES
 
