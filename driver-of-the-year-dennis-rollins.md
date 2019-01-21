@@ -9,7 +9,7 @@ Dennis has competed in the Florida TDC for several years now, and he has been na
 
 In his off-time, he works with his church youth program and is also involved with its Sunday School program. In the past, he's built homes for needy families through a local chapter of Habitat for Humanity.
 
-Dennis and his wife Susan will be invited to attend the FTA Annual Conference to be held in Hollywood, Florida in August to be recognized by the general membership.</p>
+Dennis and his wife Susan will be invited to attend the FTA Annual Conference to be held in Hollywood, Florida in August to be recognized by the general membership.
 
 ![img](uploads/RollinsD.jpg)
 
