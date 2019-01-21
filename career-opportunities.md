@@ -53,6 +53,6 @@ If you are interested in employment with one of our terminals located throughout
 	
 [Rewards and Recognition Programs]: safety-driver-incentives.html
 [Personal Benefits]: drivers-benefits.html
-[bdavis@patriottrans.com]: bdavis@patriottrans.com
+[bdavis@patriottrans.com]: mailto:bdavis@patriottrans.com
 [Diver Qualifications]: drivers-qualifications.html
 [Apply Now!]: https://ebe.floridarockandtanklines.com/Recruiting/Pages/DriverWelcome.aspx?referral=CorporateSite
