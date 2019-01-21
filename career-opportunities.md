@@ -11,11 +11,11 @@ title: Career Opportunities
 
 Thank you for your interest in the exciting career opportunities available at Florida Rock &amp; Tank Lines, Inc. We are always seeking professional, reliable drivers to join our team. Please read our <a href="drivers-qualifications.html">Driver Qualifications</a> before you complete an online application. At Florida Rock &amp; Tank Lines we understand that our employees are our greatest asset and we are proud to offer excellent benefits to include:
 
-* Paid Time Off</li>
-* Paid Holidays</li>
-* [Rewards and Recognition Programs](incentives)
+* Paid Time Off
+* Paid Holidays
+* [Rewards and Recognition Programs]
 * Retirement Plan with a company match
-* [Personal Benefits](benefits) such as Health, Dental and Vision Insurance
+* [Personal Benefits] such as Health, Dental and Vision Insurance
 
 <a href="https://ebe.floridarockandtanklines.com/Recruiting/Pages/DriverWelcome.aspx?referral=CorporateSite" target="_blank">Apply Now!</a>
 
@@ -62,5 +62,5 @@ Currently, we are accepting resumes for the following positions:
 
 If you are interested in employment with one of our terminals located throughout the southeast, or at our corporate headquarters in Jacksonville, FL please send your resume in Word for PDF format to <a href="mailto:bdavis@patriottrans.com">bdavis@patriottrans.com</a>.
 	
-[incentives]: safety-driver-incentives.html
-[benefits]: drivers-benefits.html
+[Rewards and Recognition Programs]: safety-driver-incentives.html
+[Personal Benefits]: drivers-benefits.html
