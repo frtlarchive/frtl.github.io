@@ -14,11 +14,11 @@ Fax: 904-353-3210
 
 ## Email:
 
-Recruiting: [FRTLRecruiting@patriottrans.com](FRTLRecruiting@patriottrans.com)
+Recruiting: [FRTLRecruiting@patriottrans.com](mailto:FRTLRecruiting@patriottrans.com)
 
-Safety: [FRTLSafety@patriottrans.com](FRTLSafety@patriottrans.com)
+Safety: [FRTLSafety@patriottrans.com](mailto:FRTLSafety@patriottrans.com)
 
-Claims: [FRTL_Claims@patriottrans.com](FRTL_Claims@patriottrans.com) - [Claim Form](uploads/Customer Claim Form 2018.pdf)
+Claims: [FRTL_Claims@patriottrans.com](mailto:FRTL_Claims@patriottrans.com) - [Claim Form](uploads/Customer Claim Form 2018.pdf)
 
 ## Additional:
 
