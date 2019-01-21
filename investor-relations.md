@@ -7,7 +7,7 @@ title: Investor Relations
 
 * Press Releases
 * Insider's Section 16
-* >Nasdaq Quote
+* Nasdaq Quote
 * Proxy Report
 * SEC Filings
 * Annual Report
