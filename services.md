@@ -6,7 +6,7 @@ title: Services
 ## Credit Application
 
 * [Download Credit Application PDF](uploads/Credit_Application_and_Guarantee.pdf)
-* Send completed application and agreements to Connie Lott at [clott@patriottrans.com](clott@patriottrans.com?subject=Credit%20Application%20and%20Gurantee) or by fax to:904-353-7862
+* Send completed application and agreements to Connie Lott at [clott@patriottrans.com](mailto:clott@patriottrans.com?subject=Credit%20Application%20and%20Gurantee) or by fax to:904-353-7862
 
 ## Dispatch Operations
 
@@ -28,4 +28,4 @@ title: Services
 
 ## Sales
 
-* Contact Sales at [SalesGroupFRTL@patriottrans.com](SalesGroupFRTL@patriottrans.com)
+* Contact Sales at [SalesGroupFRTL@patriottrans.com](mailto:SalesGroupFRTL@patriottrans.com)
