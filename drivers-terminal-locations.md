@@ -5,7 +5,7 @@ title: Terminal Locations
 
 {% for terminal in site.data.terminals %}
 
-## **{{terminal.name}} TERMINAL**
+## **{{terminal.name}}**
 
 {{terminal.address}}  
 {{terminal.city}}, {{terminal.state}} {{terminal.zip}}  
