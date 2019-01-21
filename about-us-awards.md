@@ -9,7 +9,7 @@ title: Awards
 
 ![1]
 
-[1]: smile.png
+[1]: uploads/top-performer-award.jpg
 {: width="606px"}
 
 *As published in Bulk Transporter Magazine*
