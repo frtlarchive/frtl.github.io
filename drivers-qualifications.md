@@ -25,4 +25,4 @@ title: Qualifications
 * Meet all requirements as outlined in the Department of Transportation, CFR 49, Part 391.1 (a).
 * No more than one at-fault accident and one moving violation conviction in the last three years.
 
-![img](uploads/frtlphoto1.jpeg"){:width="330px;"}
+![img](uploads/frtlphoto1.jpeg")
