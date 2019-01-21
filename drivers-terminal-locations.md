@@ -29,8 +29,8 @@ Jeff Hall, *District Manager*
 
 ## **CHARLOTTE TERMINAL**
 
-3901 Stuart Andrews Blvd
-Charlotte, NC 28217
+3901 Stuart Andrews Blvd  
+Charlotte, NC 28217  
 T: 704-509-6744  
 F: 704-509-6745  
 Charles Respert, *Terminal Manager*
@@ -57,7 +57,7 @@ Chip Schroeder, *Terminal Manager*
 Doraville, GA 30360  
 T: 770-457-4457  
 F: 770-457-2013  
-Korey Thompson, *Terminal Manager*  
+Korey Thompson, *Terminal Manager*
 
 ## **JACKSONVILLE TERMINAL**
 
@@ -65,7 +65,7 @@ Korey Thompson, *Terminal Manager*
 Jacksonville, FL 32208  
 T: 904-356-2456  
 F: 904-356-5572  
-Bryan Jelinek, *Terminal Manager*  
+Bryan Jelinek, *Terminal Manager*
 
 ## **KNOXVILLE TERMINAL**
 
@@ -73,7 +73,7 @@ Bryan Jelinek, *Terminal Manager*
 Knoxville, TN 37921  
 T: 865-588-4443  
 F: 865-588-4479  
-Sam Sandlin. Terminal Manager,&nbsp;  
+Sam Sandlin, *Terminal Manager*
 
 ## **MACON TERMINAL**
 
@@ -81,7 +81,7 @@ Sam Sandlin. Terminal Manager,&nbsp;
 Macon, GA 31206  
 T: 478-788-5113  
 F: 478-784-9542  
-Austin Brannum, *Terminal Manager*  
+Austin Brannum, *Terminal Manager*
 
 ## **MONTGOMERY TERMINAL**
 
@@ -89,7 +89,7 @@ Austin Brannum, *Terminal Manager*
 Montgomery, AL 36104  
 T: 334-834-5453  
 F: 334-834-6077  
-Gary Edwards, *Terminal Manager*  
+Gary Edwards, *Terminal Manager*
 
 ## **NASHVILLE TERMINAL**
 
@@ -97,14 +97,14 @@ Gary Edwards, *Terminal Manager*
 Nashville, TN 37218  
 T: 615-350-5930  
 F: 615-350-5931  
-Mike McCumber, Terminal Manager  
+Mike McCumber, *Terminal Manager*
 
 ## **OCOEE TERMINAL**
 
 9831 S Orange Ave. Second Floor  
 Orlando, FL 32824  
 T: 407-851-9122  
-Matt Nauman, *Terminal Manager*  
+Matt Nauman, *Terminal Manager*
 
 ## **PANAMA CITY TERMINAL**
 
@@ -112,7 +112,7 @@ Matt Nauman, *Terminal Manager*
 Panama City, FL 32401  
 T: 850-763-6557  
 F: 850-785-5148  
-Jan Guritz, *Terminal Manage*r  
+Jan Guritz, *Terminal Manager*
 
 ## **PENSACOLA TERMINAL**
 
@@ -120,7 +120,7 @@ Jan Guritz, *Terminal Manage*r
 Pensacola, FL 32503  
 T: 850-476-2332  
 F: 850-477-9559  
-Heather Munro, *Terminal Manager*  
+Heather Munro, *Terminal Manager*
 
 ## **PORT EVERGLADES TERMINAL**
 
@@ -128,14 +128,14 @@ Heather Munro, *Terminal Manager*
 Davie, FL 33314  
 T: 954-524-2683  
 F: 954-462-1042  
-Michael Denofrio, *Terminal Manager*  
+Michael Denofrio, *Terminal Manager*
 
-## **SAVANNAH TERMINAL **
+## **SAVANNAH TERMINAL**
 
 2389 U.S. Highway 80  
 Garden City, GA 31408  
 T: 912-964-5055  
-F: 912-964-5071  
+F: 912-964-5071
 
 ## **TAMPA TERMINAL**
 
@@ -143,20 +143,20 @@ F: 912-964-5071
 Tampa, FL 33611  
 T: 813-837-9461  
 F: 813-837-8647  
-Eileen Butler, *Terminal Manager*  
+Eileen Butler, *Terminal Manager*
 
-## **WHITE SPRINGS TERMINAL **
+## **WHITE SPRINGS TERMINAL**
 
-17607 SE CR 137 (3 miles east of JCT 41)  
+17607 SE CR 137  
 White Springs, FL 32096  
 T: 386-397-2116  
 F: 386-397-1137  
-David Starling, *Regional Manager*  
+David Starling, *Regional Manager*
 
-## **WILMINGTON TERMINAL **
+## **WILMINGTON TERMINAL**
 
 1265 Cedar Hill Road  
 Navassa, NC 28451  
 T: 910-371-2246  
 F: 910-371-2247  
-Serena Phillips, *Terminal Manager *  
+Serena Phillips, *Terminal Manager*
