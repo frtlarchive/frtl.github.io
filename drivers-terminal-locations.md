@@ -5,11 +5,11 @@ title: Terminal Locations
 
 ## **ALBANY TERMINAL**
 
-2721 Phillips Drive
-Albany, GA 31721
-T: 229-883-0881
-F: 229-883-5852
-Jeff Hall, _District Manager_
+  2721 Phillips Drive  
+  Albany, GA 31721  
+  T: 229-883-0881  
+  F: 229-883-5852  
+  Jeff Hall, _District Manager_  
 
 ## AUGUSTA TERMINAL
 
@@ -23,7 +23,7 @@ Tim Zeliska, <em>Terminal Manager</em></p>
 <div class="midleft">
 
 
-## **BAINBRIDGE TERMINAL**
+**BAINBRIDGE TERMINAL**
 
 1918 Tallahassee Highway
 Bainbridge, GA 39819
