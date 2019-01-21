@@ -9,27 +9,26 @@ title: Terminal Locations
   Albany, GA 31721  
   T: 229-883-0881  
   F: 229-883-5852  
-  Jeff Hall, _District Manager_  
+  Jeff Hall, _District Manager_
 
-## AUGUSTA TERMINAL
+## **AUGUSTA TERMINAL**
 
-<p>1814 Carmichael Road;<br />
-Augusta, GA 30906<br />
-T: 706-793-6111<br />
-F: 706-793-6108<br />
-Tim Zeliska, <em>Terminal Manager</em></p>
+  1814 Carmichael Road  
+  Augusta, GA 30906  
+  T: 706-793-6111  
+  F: 706-793-6108  
+  Tim Zeliska, _Terminal Manager_
+
+## **BAINBRIDGE TERMINAL**
+
+  1918 Tallahassee Highway  
+  Bainbridge, GA 39819  
+  T: 229-246-4000  
+  F: 229-246-6923  
+  Jeff Hall, _District Manager_
 
 
 <div class="midleft">
-
-
-**BAINBRIDGE TERMINAL**
-
-1918 Tallahassee Highway
-Bainbridge, GA 39819
-T: 229-246-4000
-F: 229-246-6923
-Jeff Hall, _District Manager_
 
 <h2><strong>CHARLOTTE TERMINAL</strong></h2>
 
