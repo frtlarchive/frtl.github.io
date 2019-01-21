@@ -51,8 +51,6 @@ T: 706-563-5671
 F: 706-568-7443  
 Chip Schroeder, *Terminal Manager*
 
-<div class="midleft">
-
 <h2><strong>CHARLOTTE TERMINAL</strong></h2>
 
 <p>4420 N Graham Street<br />
@@ -206,4 +204,3 @@ Leland, NC 28451<br />
 T: 910-371-2246<br />
 F: 910-371-2247<br />
 Serena Phillips, <em>Terminal Manager </em></p>
-</div>
