@@ -3,8 +3,6 @@ layout: page
 title: Terminal Locations
 ---
 
-<div class="midleft">
-
 ##**ALBANY TERMINAL**
 
 2721 Phillips Drive
@@ -20,6 +18,10 @@ Augusta, GA 30906<br />
 T: 706-793-6111<br />
 F: 706-793-6108<br />
 Tim Zeliska, <em>Terminal Manager</em></p>
+
+
+<div class="midleft">
+
 
 <h2><strong>BAINBRIDGE TERMINAL</strong></h2>
 
