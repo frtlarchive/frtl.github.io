@@ -114,9 +114,7 @@ Montgomery, AL 36104<br />
 T: 334-834-5453<br />
 F: 334-834-6077<br />
 Gary Edwards, <em>Terminal Manager</em></p>
-</div>
 
-<div class="midright">
 <h2><strong>NASHVILLE TERMINAL</strong></h2>
 
 <p>2921 Hydes Ferry Road<br />
