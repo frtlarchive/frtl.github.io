@@ -29,11 +29,11 @@ Jeff Hall, *District Manager*
 
 ## **CHARLOTTE TERMINAL**
 
-4420 N Graham Street  
-Charlotte, NC 28206  
-T: 864-253-8921  
-F:704-509-6745  
-Leslie Lytle, *Terminal Manager*
+3901 Stuart Andrews Blvd
+Charlotte, NC 28217
+T: 704-509-6744  
+F: 704-509-6745  
+Charles Respert, *Terminal Manager*
 
 ## **CHATTANOOGA TERMINAL**
 
