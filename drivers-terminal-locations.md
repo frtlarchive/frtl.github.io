@@ -9,7 +9,7 @@ title: Terminal Locations
   Albany, GA 31721  
   T: 229-883-0881  
   F: 229-883-5852  
-  Jeff Hall, _District Manager_
+  Jeff Hall, *District Manager*
 
 ## **AUGUSTA TERMINAL**
 
@@ -17,7 +17,7 @@ title: Terminal Locations
   Augusta, GA 30906  
   T: 706-793-6111  
   F: 706-793-6108  
-  Tim Zeliska, _Terminal Manager_
+  Tim Zeliska, *Terminal Manager*
 
 ## **BAINBRIDGE TERMINAL**
 
@@ -25,8 +25,31 @@ title: Terminal Locations
   Bainbridge, GA 39819  
   T: 229-246-4000  
   F: 229-246-6923  
-  Jeff Hall, _District Manager_
+  Jeff Hall, *District Manager*
 
+## **CHARLOTTE TERMINAL**
+
+4420 N Graham Street  
+Charlotte, NC 28206  
+T: 864-253-8921  
+F:704-509-6745  
+Leslie Lytle, *Terminal Manager*
+
+## **CHATTANOOGA TERMINAL**
+
+4548 Turntable Road  
+Chattanooga, TN 37421  
+T: 423-305-0602  
+F: 423-305-0581  
+Duane Pendergraph, *Terminal Supervisor*
+
+## **COLUMBUS TERMINAL**
+
+5241 Miller Road  
+Columbus, GA 31909  
+T: 706-563-5671  
+F: 706-568-7443  
+Chip Schroeder, *Terminal Manager*
 
 <div class="midleft">
 
