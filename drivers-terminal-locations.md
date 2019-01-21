@@ -4,15 +4,16 @@ title: Terminal Locations
 ---
 
 <div class="midleft">
-<h2><strong>ALBANY TERMINAL</strong></h2>
 
-<p>2721 Phillips Drive<br />
-Albany, GA 31721<br />
-T: 229-883-0881<br />
-F: 229-883-5852<br />
-Jeff Hall, <em>District Manager</em></p>
+##**ALBANY TERMINAL**
 
-<h2><strong>AUGUSTA TERMINAL</strong></h2>
+2721 Phillips Drive
+Albany, GA 31721
+T: 229-883-0881
+F: 229-883-5852
+Jeff Hall, _District Manager_
+
+##AUGUSTA TERMINAL
 
 <p>1814 Carmichael Road;<br />
 Augusta, GA 30906<br />
