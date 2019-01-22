@@ -13,7 +13,7 @@ All drivers are recognized after completing another year of safe driving. Once a
 
 ## Spouse Awards
 
-<p>At Florida Rock &amp; Tank Lines, we recognize that the spouses of our drivers have a very important influence on safety. Each day when a driver leaves for work, his/her mind must be completely focused on applying his/her skills as a professional truck driver. Encouraging their loved ones to drive safely and ensuring they get plenty of rest are just two ways that spouses support drivers daily. When drivers receive a safe-driving award, their spouses also receive a gift certificate. At each five-year service interval, safe drivers' spouses receive larger awards, such as a watch or a diamond bracelet.
+At Florida Rock &amp; Tank Lines, we recognize that the spouses of our drivers have a very important influence on safety. Each day when a driver leaves for work, his/her mind must be completely focused on applying his/her skills as a professional truck driver. Encouraging their loved ones to drive safely and ensuring they get plenty of rest are just two ways that spouses support drivers daily. When drivers receive a safe-driving award, their spouses also receive a gift certificate. At each five-year service interval, safe drivers' spouses receive larger awards, such as a watch or a diamond bracelet.
 
 ## Chevy Truck Safety Contest
 
