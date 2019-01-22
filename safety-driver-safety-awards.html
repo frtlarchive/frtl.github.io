@@ -3,42 +3,10 @@ layout: page
 title: Driver Safety Awards
 ---
 
-<p align="center">(Scroll Down The Page To See All Photos)<br />
-<span style="line-height: 1.6em;">_______________________________________</span></p>
+{% for award in site.data.awards %}
 
-<p align="center">Panama City Driver Bryan Crawford 1 Year Safe Driving Award and<br />
-Driver of the Third Quarter</p>
+{{award.title}}
 
-<p align="center"><img alt="Panama City Driver Bryan Crawford 1 Year Safe Driving Award and Driver of The Third Quarter" src="uploads/300_Panama_City_Driver_Bryan_Crawford_1_Year_Safe_Driving_Award_And_Driver_Of_The_3rd_Quarter_9.25.13-2.jpg" /></p>
+![{{award.title}}]({{award.image}})
 
-<p align="center">Tampa Driver Ron Joseph 5 Year Safe Driving Award</p>
-
-<p align="center"><img alt="Tampa Driver Ron Joseph 5 year Safe Driving Award" src="uploads/300_Tampa_Driver_Ron_Joseph_5_Year_Safe_Driving_Award_11.11.13-2.jpg" /></p>
-
-<p align="center">Tampa Driver Trainer George Wains 7 Year Safe Driving Award</p>
-
-<p align="center"><img alt="Tampa Driver Trainer George Wains 7 Year Safe Driving Award" src="uploads/300_Tampa_Driver_Trainer_George_Wains_7_Year_Safe_Driving_Award_11.13.13-2.jpg" /></p>
-
-<p align="center">White Springs Shop Foreman Kenny Morgan 30 Years of Service</p>
-
-<p align="center"><img alt="Kenny Morgan 30 Years of Service" src="uploads/300_Kenny_Morgan_30_Years_Of_Service_5.15.13-2.jpg" /></p>
-
-<p align="center">Wilmington Driver Adam AJ Maynor Driver of the Quarter</p>
-
-<p align="center"><img alt="Wilmington Adam AJ Maynor Driver of the Quarter" src="uploads/300_Wilmington_Adam_AJ_Maynor_Driver_Of_The_Quarter_9.26.13-2.jpg" /></p>
-
-<p align="center">&nbsp;&nbsp;&nbsp;Chattanooga Driver Yvonne Swafford of the 3rd Quarter</p>
-
-<p align="center"><img alt="Yvonne Stafford Chattanooga Driver of the 3rd Quarter" src="uploads/300_Yvonne_Stafford_Chattanooga_Driver_Of_The_3rd_Quarter_9.30.13-2.jpg" /></p>
-
-<p align="center">Knoxville Driver David Reece 3 Year Safe Driving Award</p>
-
-<p align="center"><img alt="David Reece Knoxville 3 Year Safe Driving Award" src="uploads/300_David_Reece_Knoxville_3_Year_Safe_Driving_Award_8.15.13-2.jpg" /></p>
-
-<p align="center">Knoxville Driver Keith Haley 12 Year Safe Driving Award</p>
-
-<p align="center"><img alt="Keith Haley 12 Year Safe Driving Award" src="uploads/300_Keith_Haley_12_Year_Safe_Driving_Award_8.15.13-2.jpg" /></p>
-
-<p align="center">Macon Driver Ken Smith 5 Year Safe Driving Award</p>
-
-<p align="center"><img alt="Ken Smith 5 Year Safe Driving Award Macon" src="uploads/300_Ken_Smith_5_Year_Safe_Driving_Award_Macon_9.13.13-2.jpg" /></p>
+{% endfor %}
