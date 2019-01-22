@@ -28,10 +28,17 @@ Thank you for your interest in the exciting career opportunities available here 
 * Meet all requirements as outlined in the Department of Transportation, CFR 49, Part 391.1 (a).  
 * No more than one at-fault accident and one moving violation conviction in the last three years.  
 
+---
+
 ![img](uploads/frtlphoto1.jpeg){: style="width: 330px; "}
+
+---
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/i6usalPyBu8?rel=0" width="560"></iframe>
 
-[Dennis Rollins - Florida Trucking Association Driver of the Year](driver-of-the-year-dennis-rollins.html)
+---
 
 [![img](uploads/Dennis_Rollins.PNG" ){: style="width: 700px; height: 395px;"}](driver-of-the-year-dennis-rollins.html)
+
+[Dennis Rollins - Florida Trucking Association Driver of the Year](driver-of-the-year-dennis-rollins.html)
+
