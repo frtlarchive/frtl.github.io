@@ -38,7 +38,7 @@ Thank you for your interest in the exciting career opportunities available here 
 
 ---
 
-[![img](uploads/Dennis_Rollins.PNG" ){: style="width: 700px; height: 395px;"}](driver-of-the-year-dennis-rollins.html)
+[![img](uploads/Dennis_Rollins.PNG)](driver-of-the-year-dennis-rollins.html)
 
 [Dennis Rollins - Florida Trucking Association Driver of the Year](driver-of-the-year-dennis-rollins.html)
 
