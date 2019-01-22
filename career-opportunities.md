@@ -29,8 +29,11 @@ Thank you for your interest in the exciting career opportunities available at Fl
 
 We are currently accepting resumes for the following positions:
 
-* Diesel Mechanic – Wilmington, NC
-* Diesel Mechanic - Tampa, FL
+{% for position in site.data.positions %}
+    {% if position.type contains 'shop' %}
+* {{ position.title }} - {{ position.location }}
+    {% endif %}
+{% endfor %}
 
 At Florida Rock &amp; Tank Lines, we understand that our employees are our biggest asset and therefore are proud to offer excellent [benefits][Personal Benefits].
 
@@ -42,12 +45,11 @@ Thank you for your interest in the exciting career opportunities available here 
 
 Currently, we are accepting resumes for the following positions:
 
-* Regional Maintenance Supervisor – Various (Georgia and Tennessee locations)
-* District Manager – Various (Augusta, GA, Charlotte, NC, Savannah, GA)
-* Office Clerk - Montgomery, AL
-* Office Clerk – Tampa, FL
-* Logistics Supervisor -Doraville, GA
-* Logistics Supervisor – Bainbridge, GA
+{% for position in site.data.positions %}
+    {% if position.type contains 'other' %}
+* {{ position.title }} - {{ position.location }}
+    {% endif %}
+{% endfor %}
 
 If you are interested in employment with one of our terminals located throughout the southeast, or at our corporate headquarters in Jacksonville, FL please send your resume in Word or PDF format to [bdavis@patriottrans.com].
 	
