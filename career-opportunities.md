@@ -38,7 +38,7 @@ To apply please fax resumes to (904) 858-9008 or email [bdavis@patriottrans.com]
 
 ## TERMINAL AND OFFICE OPPORTUNITIES
 
-Thank you for your interest in the exciting career opportunities available here at Florida Rock amp;& Tank Lines. We seek talented individuals with experience or interest in the transportation industry.
+Thank you for your interest in the exciting career opportunities available here at Florida Rock & Tank Lines. We seek talented individuals with experience or interest in the transportation industry.
 
 Currently, we are accepting resumes for the following positions:
 
