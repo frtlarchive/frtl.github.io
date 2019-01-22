@@ -49,7 +49,7 @@ Currently, we are accepting resumes for the following positions:
 * Logistics Supervisor -Doraville, GA
 * Logistics Supervisor – Bainbridge, GA
 
-If you are interested in employment with one of our terminals located throughout the southeast, or at our corporate headquarters in Jacksonville, FL please send your resume in Word for PDF format to [bdavis@patriottrans.com].
+If you are interested in employment with one of our terminals located throughout the southeast, or at our corporate headquarters in Jacksonville, FL please send your resume in Word or PDF format to [bdavis@patriottrans.com].
 	
 [Rewards and Recognition Programs]: safety-driver-incentives.html
 [Personal Benefits]: drivers-benefits.html
