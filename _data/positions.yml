@@ -3,8 +3,8 @@
   location: Wilmington, NC
 
 - type: shop
-  title: Diesel Mechanic
-  location: Tampa, FL
+  title: Lead Diesel Technician III
+  location: Doraville, GA
 
 - type: other
   title: Regional Maintenance Supervisor
@@ -15,12 +15,16 @@
   location: Various (Augusta, GA, Charlotte, NC, Savannah, GA)
 
 - type: other
-  title: Office Clerk
-  location: Montgomery, AL
+  title: Dispatch Trainer
+  location: Jacksonville, FL
+  
+- type: other
+  title: Dispatch Manager
+  location: Doraville, GA
 
 - type: other
   title: Office Clerk
-  location: Tampa, FL
+  location: Montgomery, AL
 
 - type: other
   title: Logistics Supervisor
@@ -29,3 +33,7 @@
 - type: other
   title: Logistics Supervisor
   location: Bainbridge, GA
+  
+- type: other
+  title: Logistics Supervisor
+  location: Pensacola, FL
