@@ -9,7 +9,7 @@ title: Career Opportunities
 
 ### **We are now accepting applications at all terminal locations.**
 
-Thank you for your interest in the exciting career opportunities available at Florida Rock &amp; Tank Lines, Inc. We are always seeking professional, reliable drivers to join our team. Please read our [Diver Qualifications] before you complete an online application. At Florida Rock &amp; Tank Lines we understand that our employees are our greatest asset and we are proud to offer excellent benefits to include:
+Thank you for your interest in the exciting career opportunities available at Florida Rock &amp; Tank Lines, Inc. We are always seeking professional, reliable drivers to join our team. Please read our [Driver Qualifications] before you complete an online application. At Florida Rock &amp; Tank Lines we understand that our employees are our greatest asset and we are proud to offer excellent benefits to include:
 
 * Paid Time Off
 * Paid Holidays
