@@ -1,23 +1,20 @@
 - type: shop
   title: Lead Diesel Technician III
   location: Doraville, GA
+  
+- type: shop
+  title: Diesel Mechanic
+  location: Pensacola, FL
+
+- type: shop
+  title: Shop Foreman
+  location: Jacksonville, FL
 
 - type: other
   title: Regional Maintenance Supervisor
   location: Doraville, GA
 
 - type: other
-  title: Shop Foreman
-  location: Jacksonville, FL
-
-- type: other
   title: Logistics Supervisor
   location: Jacksonville, FL
   
-- type: other
-  title: Office Clerk
-  location: Columbus, GA
-  
-- type: other
-  title: Office Clerk
-  location: Tampa, FL
