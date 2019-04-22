@@ -7,4 +7,4 @@ Florida Rock & Tank Lines, Inc. has served as a premier bulk tank carrier since 
 
 ![map]
 
-[map]: uploads/hiringlanesmap2.jpg
+[map]: images/about-us-map.png
