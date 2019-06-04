@@ -3,6 +3,10 @@
   location: Doraville, GA
   
 - type: shop
+  title: Shop Foreman
+  location: Doraville, GA
+  
+- type: shop
   title: Diesel Mechanic
   location: Pensacola, FL
 
@@ -11,8 +15,16 @@
   location: Jacksonville, FL
 
 - type: other
-  title: Logistics Supervisor 
-  location: Knoxville, TN
+  title: Terminal Manager 
+  location: Augusta, GA
+
+- type: other
+  title: Assistant Terminal Manager 
+  location: Tampa, FL
+
+- type: other
+  title: Terminal Supervisor 
+  location: Orlando, FL
 
 - type: other
   title: Logistics Supervisor
