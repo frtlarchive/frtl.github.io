@@ -1,19 +1,8 @@
 - type: shop
-  title: Shop Foreman
-  location: Doraville, GA
-  
-- type: shop
   title: Diesel Mechanic
   location: Pensacola, FL
-
-- type: other
-  title: Terminal Supervisor 
-  location: Orlando, FL
 
 - type: other
   title: Logistics Supervisor
   location: Jacksonville, FL
   
-- type: other
-  title: Billing Specialist 
-  location: Jacksonville, FL
