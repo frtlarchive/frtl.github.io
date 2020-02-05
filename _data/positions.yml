@@ -1,16 +1,20 @@
 - type: shop
-  title: Lead Diesel Technician
+  title: Diesel Mechanic
   location: Doraville, GA
   
 - type: shop
-  title: Shop Foreman
-  location: Wilmington, NC
+  title: Diesel Mechanic
+  location: Panama City, FL
+  
+- type: other
+  title: Terminal Supervisor
+  location: Chattanooga, TN
 
 - type: other
   title: Logistics Supervisor
-  location: Jacksonville, FL
+  location: Wilmington, NC
   
 - type: other
-  title: Logistics Manager
-  location: Jacksonville, FL
+  title: Logistics Supervisor
+  location: Doraville, GA
   
