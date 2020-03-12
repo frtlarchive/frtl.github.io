@@ -21,7 +21,6 @@ If you own your tractor and are looking for a stable, local freight opportunity,
 * Free Under Dispatch Auto Liability Insurance
 * Operate Under FRTL DOT Authority
 * Parking at FRTL Terminal or Approved Domicile Location
-* Tractor Rental Program (in the event your tractor is out-of-service)
 
 **Tractor Requirements**
 
