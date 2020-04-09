@@ -1,20 +1,12 @@
-- type: shop
-  title: Diesel Mechanic
-  location: Doraville, GA
-  
-- type: shop
-  title: Diesel Mechanic
-  location: Panama City, FL
-  
 - type: other
-  title: Terminal Supervisor
-  location: Chattanooga, TN
+  title: Logistics Supervisor
+  location: Tampa, FL
 
 - type: other
   title: Logistics Supervisor
-  location: Wilmington, NC
+  location:  Columbus, GA
   
 - type: other
   title: Logistics Supervisor
-  location: Doraville, GA
+  location: Albany, GA
   
