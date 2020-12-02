@@ -22,7 +22,7 @@ title: Benefits
 * Long Term Disability
 * Voluntary Benefits: (Critical Illness, Accident, Hospital Indemnity, Life Insurance) Guarantee Issue for New Hires
 * MDLIVE telemedicine 24/7 coverage No Cost/No Co-pay (Family Coverage)
-* Flexible Spending Accounts Available
+* Dependent Care Account Available
 
 ## Health Coverage: Blue Cross Blue Shield
 
@@ -43,12 +43,10 @@ title: Benefits
 * Commercial Driver Legal Plan (CDLP): covers employee and spouse/domestic partner in any vehicle you are licensed to drive. Coverage includes representation for serious moving traffic violations, tragic accidents, vehicular manslaughter/homicide, DOT violations, license reinstatement, personal injury and property damage collection.
 * Family Plan: Covers employee and immediate family for legal support in consultations, attorney letters, contract and document review, will preparation, moving traffic violations, motor vehicle criminal charges, trial defense, IRS audits and more.
 
-## Flexible Spending Accounts
+## Dependent Care Account
 
-* Available at 30 days of continuous employment. These accounts enable you to pay for eligible out of pocket healthcare and/or dependent-care expenses with pretax dollars. Your predetermined election amount is deducted on a pre-tax basis in equal increments and contributed to your account(s).
-* Use the Healthcare Account to pay for prescriptions, co-pays, orthodontics and any other out of pocket expenses that may not be covered by insurance.
 * Use the Dependent Care account covers children under age 13 in after-school care and/or summer camp, and elderly or disabled care.
-* When eligible expenses are incurred, fax or mail the completed claim form to Pay Flex for reimbursement the following week. The Flex Debit card covers many medical purchases with no reimbursement necessary.
+* When eligible expenses are incurred, fax or mail the completed claim form to Pay Flex for reimbursement the following week.
 
 ## Short Term Disability (Salary Continuance Program)
 
