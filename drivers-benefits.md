@@ -20,6 +20,8 @@ title: Benefits
 * Funeral Leave
 * Short Term Disability Insurance
 * Long Term Disability
+* Voluntary Benefits: (Critical Illness, Accident, Hospital Indemnity, Life Insurance) Guarantee Issue for New Hires
+* MDLIVE telemedicine 24/7 coverage No Cost/No Co-pay (Family Coverage)
 * Flexible Spending Accounts Available
 
 ## Health Coverage: Blue Cross Blue Shield
