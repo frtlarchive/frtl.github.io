@@ -1,12 +1,32 @@
 - type: shop
   title: Diesel Mechanic 
-  location:  Albany, GA
+  location:  Doraville, GA
+  
+- type: shop
+  title: Diesel Mechanic 
+  location:  Montgomery, AL
   
 - type: other
   title: Logistics Supervisor
-  location: Tampa, FL
+  location: Jacksonville, FL
   
 - type: other
   title: Logistics Supervisor
   location: Panama City, FL
+  
+- type: other
+  title: Logistics Supervisor
+  location: Doraville, GA
+  
+- type: other
+  title: Terminal Manager
+  location: Jacksonville, FL
+
+- type: other
+  title: Terminal Manager
+  location: Panama City, FL
+
+- type: other
+  title: Fleet Safety Supervisor
+  location: AL,FL Panhandle, W. Georgia Locations
   
