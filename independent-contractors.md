@@ -7,20 +7,28 @@ title: Independent Contractors
 
 ## Now Hiring Local CDL-A Truck Drivers Home Daily
 
-If you own your tractor and are looking for a stable, local freight opportunity, Florida Rock & Tank Lines has just what you are looking for and more. Our tanker commodities consisting of petroleum, chemical and dry bulk are in strong demand across our southeastern terminal network. In addition to stable freight, we offer a comprehensive IC support program designed so you can succeed in safety, maintenance and profitability in your business.
+If you own your tractor and are looking for a stable, local freight opportunity, take a look at the **new percentage pay** and excellent advantages **Florida Rock & Tank Lines** offers! 
+
+CDL-A Independent Contractors will be delivering petroleum, chemical or dry bulk products to commercial and industrial customers in the Southeast region. In addition to stable freight, we offer a comprehensive independent contractor / owner operator support program designed so you can succeed in safety, maintenance and profitability in your business.
 
 **Why Join the FRTL Team?**
 
-* Stable Freight
-* Home Daily
-* Weekly Settlements
-* Tank Truck Industry Leader
-* PeopleNet Tanker Workflow & Electronic Logs
-* Discounted Fuel & Tires
-* Permit and Fuel Tax Filing
-* Free Under Dispatch Auto Liability Insurance
-* Operate Under FRTL DOT Authority
-* Parking at FRTL Terminal or Approved Domicile Location
+* NEW 68% of linehaul pay! (In select markets)
+* Multi-Driver/Tractor opportunities 
+* Home DAILY! 
+* Comprehensive Benefits Program offered by 3rd party 
+* Very stable, essential year-round freight 
+* Tank truck industry leader 
+* PeopleNet tanker workflow & electronic logs 
+* Discounted fuel & tires 
+* Permit and fuel tax filing 
+* No cost auto liability insurance while under dispatch 
+* Operate under FRTL DOT authority 
+* Parking at FRTL terminal or approved domicile location 
+* 100% Fuel Surcharge 
+* Weekly settlements
+* Referral Bonus opportunity (ask a recruiter for details)
+
 
 **Tractor Requirements**
 
@@ -30,12 +38,12 @@ If you own your tractor and are looking for a stable, local freight opportunity,
 * Exhaust system mufflers and heat shields
 * Professional appearance
 * Windshields and cab must be free of accessories which obstructs driver&rsquo;s vision
-* Maximum 19,000lbs including driver and fuel
+* Maximum 20,000lbs including driver and fuel
 * Highest point not to exceed 11'6"
 * Wheelbase of 185' to 220'
 * ECM set at 65mph maximum speed
 
-**Independent Contractor Driver Eligibility**
+**Independent Contractor / Owner Operator CDL-A Truck Driver Eligibility**
 
 * Only the owner(s) as state on the tractor title are authorized to drive the IC tractor.
 * Be at least 23 years of age
