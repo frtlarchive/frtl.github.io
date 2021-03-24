@@ -1,11 +1,3 @@
-- type: shop
-  title: Diesel Mechanic 
-  location:  Doraville, GA
-  
-- type: shop
-  title: Diesel Mechanic 
-  location:  Montgomery, AL
-  
 - type: other
   title: Logistics Supervisor
   location: Jacksonville, FL
@@ -19,14 +11,17 @@
   location: Doraville, GA
   
 - type: other
-  title: Terminal Manager
-  location: Jacksonville, FL
-
+  title: Logistics Supervisor
+  location: Columbus, GA  
+  
 - type: other
   title: Terminal Manager
-  location: Panama City, FL
+  location: Jacksonville, FL
 
 - type: other
   title: Fleet Safety Supervisor
   location: AL,FL Panhandle, W. Georgia Locations
   
+- type: other
+  title: Fleet Safety Supervisor
+  location: TN and GA Locations
