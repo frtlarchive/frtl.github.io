@@ -1,26 +1,18 @@
 - type: other
-  title: Logistics Supervisor
-  location: Bainbridge, GA
- 
-- type: other
-  title: Logistics Supervisor
-  location: Columbus, GA
+  title: Terminal Supervisor
+  location: Jacksonville, FL
   
 - type: other
-  title: Terminal Supervisor
-  location: Jacksonville, FL 
+  title: Terminal Manager
+  location: Pensacola, FL  
+  
+- type: other
+  title: Logistics Supervisor
+  location: Montgomery, AL
   
 - type: shop
   title: Diesel Mechanic
   location: Albany, GA
-
-- type: shop
-  title: Diesel Mechanic
-  location: Pensacola, FL
-  
-- type: shop
-  title: Diesel Mechanic
-  location: Montgomery, AL
   
 - type: shop
   title: Shop Foreman
