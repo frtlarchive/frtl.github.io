@@ -11,10 +11,6 @@
   location: Montgomery, AL
   
 - type: other
-  title: Logistics Supervisor 
-  location: Albany, GA  
-  
-- type: other
   title: Logistics Supervisor
   location: Jacksonville, FL
   
@@ -22,11 +18,6 @@
   title: Terminal Supervisor II
   location: Montgomery, AL
   
-- type: other
-  title: Terminal Manager
-  location: Pensacola, FL
-
-    
 - type: shop
   title: Diesel Mechanic
   location: Albany, GA
