@@ -1,19 +1,19 @@
-name,address,city,state,zip,telephone,fax,cname,ctitle
-ALBANY,2721 Phillips Drive,Albany,GA,31721,229-883-0881,229-883-5852,Jeff Hall,District Manager
-AUGUSTA,1814 Carmichael Road,Augusta,GA,30906,706-793-6111,706-793-6108,Darius Jenkins,Terminal Manager
-BAINBRIDGE,1918 Tallahassee Highway,Bainbridge,GA,39819,229-246-4000,229-246-6923,Jeff Hall,District Manager
-CHATTANOOGA,4548 Turntable Road,Chattanooga,TN,37421,423-305-0602,423-305-0581,Sam Sandlin,Terminal Supervisor
-COLUMBUS,5241 Miller Road,Columbus,GA,31909,706-563-5671,706-568-7443,Chip Schroeder,Terminal Manager
-DORAVILLE,2766 Woodwin Road,Doraville,GA,30360,770-457-4457,770-457-2013,Steve Smith,Terminal Manager
-JACKSONVILLE,5714 Buffalo Avenue,Jacksonville,FL,32208,904-356-2456,904-356-5572,Gregory Breaston,Terminal Manager
-KNOXVILLE,3408 Henson Rd,Knoxville,TN,37921,865-588-4443,865-588-4479,Sam Sandlin,Terminal Manager
-MACON,2532 Allen Road,Macon,GA,31206,478-788-5113,478-784-9542,Jeff Watson,Terminal Manager
-MONTGOMERY,519 Shafter Street,Montgomery,AL,36104,334-834-5453,334-834-6077,Gary Edwards,Terminal Manager
-NASHVILLE,2921 Hydes Ferry Road,Nashville,TN,37218,615-350-5930,615-350-5931,Clifton Dever,Terminal Manager
-OCOEE,9831 S Orange Ave. Second Floor,Orlando,FL,32824,407-851-9122,None,Josh Jones,Terminal Manager
-PANAMA CITY,404 North Elm Avenue,Panama City,FL,32401,850-763-6557,850-785-5148,David Cheuvront,Terminal Manager
-PENSACOLA,147 Stumpfield Rd,Pensacola,FL,32503,850-476-2332,850-477-9559,Jason Franzel,Terminal Manager
-PORT EVERGLADES,4601 SW 30th Street,Davie,FL,33314,954-524-2693,954-462-1042,Michael Denofrio,Terminal Manager
-SAVANNAH,2389 U.S. Highway 80,Garden City,GA,31408,912-964-5055,912-964-5071,Eric Cooper,District Manager
-TAMPA,6604 South Dale Mabry Highway,Tampa,FL,33611,813-837-9461,813-837-8647,Mike Porrino,Terminal Manager
-WHITE SPRINGS,17607 SE CR 137,White Springs,FL,32096,386-234-2926,386-397-1137,Cody Lewis,Regional Manager
+name,address,city,state,zip,telephone,fax
+ALBANY,2721 Phillips Drive,Albany,GA,31721,229-883-0881,229-883-5852
+AUGUSTA,1814 Carmichael Road,Augusta,GA,30906,706-793-6111,706-793-6108
+BAINBRIDGE,1918 Tallahassee Highway,Bainbridge,GA,39819,229-246-4000,229-246-6923
+CHATTANOOGA,4548 Turntable Road,Chattanooga,TN,37421,423-305-0602,423-305-0581
+COLUMBUS,5241 Miller Road,Columbus,GA,31909,706-563-5671,706-568-7443
+DORAVILLE,2766 Woodwin Road,Doraville,GA,30360,770-457-4457,770-457-2013
+JACKSONVILLE,5714 Buffalo Avenue,Jacksonville,FL,32208,904-356-2456,904-356-5572
+KNOXVILLE,3408 Henson Rd,Knoxville,TN,37921,865-588-4443,865-588-4479
+MACON,2532 Allen Road,Macon,GA,31206,478-788-5113,478-784-9542
+MONTGOMERY,519 Shafter Street,Montgomery,AL,36104,334-834-5453,334-834-6077
+NASHVILLE,2921 Hydes Ferry Road,Nashville,TN,37218,615-350-5930,615-350-5931
+OCOEE,9831 S Orange Ave. Second Floor,Orlando,FL,32824,407-851-9122,None
+PANAMA CITY,404 North Elm Avenue,Panama City,FL,32401,850-763-6557,850-785-5148
+PENSACOLA,147 Stumpfield Rd,Pensacola,FL,32503,850-476-2332,850-477-9559
+PORT EVERGLADES,4601 SW 30th Street,Davie,FL,33314,954-524-2693,954-462-1042
+SAVANNAH,2389 U.S. Highway 80,Garden City,GA,31408,912-964-5055,912-964-5071
+TAMPA,6604 South Dale Mabry Highway,Tampa,FL,33611,813-837-9461,813-837-8647
+WHITE SPRINGS,17607 SE CR 137,White Springs,FL,32096,386-234-2926,386-397-1137
