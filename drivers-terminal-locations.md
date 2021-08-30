@@ -7,10 +7,9 @@ title: Terminal Locations
 
 ## **{{terminal.name}}**
 
-{{terminal.address}}  
-{{terminal.city}}, {{terminal.state}} {{terminal.zip}}  
-T: {{terminal.telephone}}  
-F: {{terminal.fax}}  
-{{terminal.cname}}, *{{terminal.ctitle}}*
+{{terminal.address}}
+{{terminal.city}}, {{terminal.state}} {{terminal.zip}}
+T: {{terminal.telephone}}
+F: {{terminal.fax}}
 
 {% endfor %}
