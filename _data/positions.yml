@@ -1,9 +1,5 @@
 - type: other
   title: Logistics Supervisor 
-  location: Bainbridge, GA
-  
-- type: other
-  title: Logistics Supervisor 
   location: Columbus, GA
   
 - type: other
@@ -13,6 +9,10 @@
 - type: other
   title: Logistics Supervisor
   location: Jacksonville, FL
+
+- type: other
+  title: Logistics Supervisor
+  location: Macon, GA
   
 - type: other
   title: Terminal Supervisor II
