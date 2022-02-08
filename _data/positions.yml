@@ -15,17 +15,9 @@
   location: Bainbridge, GA
   
 - type: other
-  title: Logistics Supervisor
-  location: Macon, GA
-  
-- type: other
   title: Payroll Administrator-Corporate Office
   location: Jacksonville, FL
-  
-- type: other
-  title: Accounts Payable Specialist-Corporate Office
-  location: Jacksonville, FL
-  
+ 
 - type: other
   title: Associate Accountant(part-time)-Corporate Office
   location: Jacksonville, FL
@@ -33,6 +25,10 @@
 - type: other
   title: Management Trainee-Corporate Office
   location: Jacksonville, FL
+  
+- type: other
+  title: Pricing Analyst-Corporate Office
+  location: Jacksonville, FL 
 
 - type: shop
   title: Diesel Mechanic
@@ -41,4 +37,8 @@
 - type: shop
   title: Shop Foreman
   location: Tampa, FL
+  
+- type: shop
+  title: Shop Foreman
+  location: Port Everglades, FL
  
