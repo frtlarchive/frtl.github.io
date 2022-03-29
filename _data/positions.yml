@@ -1,8 +1,4 @@
 - type: other
-  title: Logistics Supervisor 
-  location: Tampa, FL
-  
-- type: other
   title: Logistics Supervisor
   location: Jacksonville, FL
  
@@ -16,9 +12,13 @@
 
 - type: shop
   title: Diesel Mechanic
-  location: Doraville, GA
+  location: Port Everglades, FL
   
 - type: shop
   title: Shop Foreman
   location: Jacksonville, FL
+  
+- type: shop
+  title: Shop Foreman
+  location: Port Everglades, FL
  
